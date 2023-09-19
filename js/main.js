@@ -3,6 +3,6 @@
  * @since 2022.09.06
  */
 
-'use strict';
+"use strict";
 
-console.log('Test liaison JS');
+console.log("Test liaison JS");
